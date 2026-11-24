@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-# NAME: M AADHAVAN NAGARAJAN
-# REGISTER NUMBER: 212225040001
+## NAME: M AADHAVAN NAGARAJAN
+## REGISTER NUMBER: 212225040001
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
