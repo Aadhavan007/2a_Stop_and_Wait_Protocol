@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-NAME: M AADHAVAN NAGARAJAN
-REGISTER NUMBER: 212225040001
+# NAME: M AADHAVAN NAGARAJAN
+# REGISTER NUMBER: 212225040001
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -58,8 +58,9 @@ while True:
 
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c019b72-ef7f-4cdf-97d4-20a08687be9a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecf3544a-5e5a-46c6-8ff6-7ac2da1a0af5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3403802-39b0-4610-b543-41b3251d1539" />
+
 
 ## RESULT
 Thus python program to perform stop and wait protocol was successfully executed.
